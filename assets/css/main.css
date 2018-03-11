@@ -775,9 +775,9 @@
 		/* about me css*/
 		#about-main {
 		position: relative;
-		max-width: 100%;
+		max-width: 80%;
 		min-width: 75em;
-		height: 1150px;
+		height: 1170px;
 		padding: 4.5em 3em 3em 3em ;
 		background: #ffffff;
 		border-radius: 4px;
